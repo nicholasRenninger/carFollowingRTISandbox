@@ -31,7 +31,8 @@
 CARFOLLOWINGRTISANDBOX_PATH="$HOME/Google Drive/Grad School/specification learning/code/carFollowingRTISandbox/carfollowingRTI"
 
 # specifying input file to feed to rti
-INPUT_FILE="$CARFOLLOWINGRTISANDBOX_PATH/MOHA/data/I80_1/rti_train_I80_1.txt"
+# INPUT_FILE="$CARFOLLOWINGRTISANDBOX_PATH/MOHA/data/I80_1/rti_train_I80_1.txt"
+INPUT_FILE="$CARFOLLOWINGRTISANDBOX_PATH/rti/build/test.data"
 
 # from RTI Docs:
 # 
