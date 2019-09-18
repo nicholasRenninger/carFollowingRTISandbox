@@ -1,3 +1,6 @@
 [submodule "carfollowingRTI"]
 	path = carfollowingRTI
 	url = https://github.com/nicholasRenninger/carfollowingRTI.git
+[submodule "rti"]
+	path = rti
+	url = https://github.com/nicholasRenninger/rti.git
